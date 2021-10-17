@@ -1,3 +1,5 @@
+# When user input a guess :
+
 from game_data import data
 import random
 
