@@ -1,0 +1,22 @@
+question_data = [
+    {"text": "None is a Python type whose value indicates that no value exists.","answer":"True"},
+    {"text": "RAM is a non-volatile memory ","answer":"False"},
+    {"text": "Variables defined in a function are local to that function, unless bound by the global keyword ","answer":"True"},
+    {"text": "There is usually only one correct solution to a problem involving decision structures ","answer":"False"},
+    {"text": "The condition x <= y <= z is allowed in Python ","answer":"True"},
+    {"text": "A Python while can implement a definite loop","answer":"True"},
+    {"text": "a and (b or c) == (a and b) or (a and c)","answer":"True"},
+    {"text": "An int can be converted to a string while a string cannot be converted to an int","answer":"False"},
+    {"text": "The if statement can only accept a Boolean expression as a condition","answer":"True"},
+    {"text": "Is python case sensitive when dealing with identifiers? ","answer":"True"},
+    {"text": "Mathematical operations can be performed on a string. ","answer":"False"},
+    {"text": "Are nested if-else are allowed in python? ","answer":"True"},
+    {"text": "Is tuple mutable ?","answer":"False"},
+    {"text": "Python allows you to assign a single value to multiple variables simultaneously ? ","answer":"True"},
+    {"text": "In python programming, pass is a null statemenet ?","answer":"True"},
+    {"text": "Spaces and commas are allowed in a variable name.","answer":"False"},
+    {"text": "Algorithm is the graphical representation of logic.","answer":"False"},
+    {"text": "The maximum value that an integer constant can have varies from one compiler to another","answer":"True"},
+    {"text": "Only character or integer can be used in switch statement ","answer":"False"},
+    {"text": "The keywords cannot be used as variable names. ","answer":"True"}
+]
